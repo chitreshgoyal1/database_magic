@@ -23,8 +23,8 @@
 # # restore db based on a backup file pattern (e.g. timestamp)
 # rake db:restore pattern=20170101
 #
-# # note: config/database.yml is used for database configuration,
-# #       but you will be prompted for the database user's password
+# # config/database.yml is used for database configuration,
+# # but you will be prompted for the database user's password
 #
 # Original source: https://gist.github.com/hopsoft/56ba6f55fe48ad7f8b90
 namespace :db do
