@@ -1,4 +1,4 @@
-# lib/tasks/database.rake
+# lib/tasks/pg_dump_restore_without_options.rake
 namespace :database do
 
   desc "Dumps the database to db/application_name.dump"
