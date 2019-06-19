@@ -1,4 +1,4 @@
-# database_magic
+# Database Magic with Ruby
 Dump &amp; Restore DB
 
 1. Dump & Restore PG data without options
