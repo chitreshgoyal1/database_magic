@@ -6,6 +6,7 @@ Dump &amp; Restore DB
 
   
     Sample Script
+        
         # lib/tasks/database.rake
         namespace :database do
 
